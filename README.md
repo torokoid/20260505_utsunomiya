@@ -168,7 +168,7 @@ p.note { display: none; }
 
 <div class="media-container">
 
-<h2><span class="yellow">26,Apr,2026 日環アリーナの観客席からの写真集</span></h2>
+<h2><span class="yellow">04,May,2026 いつものお花たちなどの写真集</span></h2>
 <a href="20260505_001.webp" target="_blank">
   <picture>
     <source srcset="20260505_001.webp" type="image/webp">

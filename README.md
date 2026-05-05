@@ -152,11 +152,11 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2026Apr26.png" alt="アクセス用QRコード" width="100">QR for Access</p>
+<p align="left"> <img src="QR_2026May05.png" alt="アクセス用QRコード" width="100">QR for Access</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S,Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/04/26、日本マスターズ水泳短水路大会、栃木会場 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/05/04、いつものお花たちから、アマチュア無線のシステム改修とFKDの本屋さんやぬいぐるみなどなど  !!!</marquee></span></h1>
 
 
 
@@ -620,7 +620,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">2026Apr26、日本マスターズ水泳短水路大会、栃木会場でした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026May04、いつものお花たちから、アマチュア無線のシステム改修とFKDの本屋さんやぬいぐるみなどなどでした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
